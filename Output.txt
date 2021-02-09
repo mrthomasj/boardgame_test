@@ -1,0 +1,7 @@
+O número de partidas finalizadas por limite de turnos é de: 11.
+A média de turnos que uma partida demora para ser concluída é de: 76
+O Jogador 1 venceu 19% das vezes.
+O Jogador 2 venceu 52.67% das vezes.
+O Jogador 3 venceu 21% das vezes.
+O Jogador 4 venceu 7.33% das vezes.
+O Jogador com mais vitórias foi o Jogador 2 com o comportamento Demanding.
